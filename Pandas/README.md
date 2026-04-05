@@ -17,6 +17,13 @@ This folder contains exercises and practice problems related to Pandas from kagg
 - Selecting multiple rows and columns efficiently
 - Manipulating the index
 
+3. Summary Functions & Maps
+- summary functions
+- Map Functions
+- Data Transformation
+- Data Analysis Tasks
+- Text Processing
+
 # Dataset used
 - Wine Reviews Dataset (Kaggle):
 https://www.kaggle.com/datasets/zynicide/wine-reviews
@@ -24,6 +31,7 @@ https://www.kaggle.com/datasets/zynicide/wine-reviews
 # Structure
 - Pandas_Exercise1 - Creating-Reading-Writing
 - Pandas_Exercise2 - Indexing-Selecting-Assigning
+- Pandas_Exercise3 - Summary-Functions-Maps
 
 # Purpose
 To understand and practice data manipulation using Pandas.
