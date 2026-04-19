@@ -24,6 +24,12 @@ This folder contains exercises and practice problems related to Pandas from kagg
 - Data Analysis Tasks
 - Text Processing
 
+4. grouping and Sorting
+- Groupwise analysis
+- Duplicates
+- Multi-indexes
+- Sorting
+
 # Dataset used
 - Wine Reviews Dataset (Kaggle):
 https://www.kaggle.com/datasets/zynicide/wine-reviews
@@ -32,6 +38,7 @@ https://www.kaggle.com/datasets/zynicide/wine-reviews
 - Pandas_Exercise1 - Creating-Reading-Writing
 - Pandas_Exercise2 - Indexing-Selecting-Assigning
 - Pandas_Exercise3 - Summary-Functions-Maps
+- Pandas_Exercise4 - Grouping-and-Sorting
 
 # Purpose
 To understand and practice data manipulation using Pandas.
