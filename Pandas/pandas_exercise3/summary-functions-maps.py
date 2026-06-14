@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-# Load dataset (change path if needed)
+# Load dataset 
 reviews = pd.read_csv("pandas/pandas_exercise3/winemag-data-130k-v2.csv")
 
 # -------------------------------

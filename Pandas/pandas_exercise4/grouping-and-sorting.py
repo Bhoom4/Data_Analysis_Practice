@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Load dataset (make sure file is in same folder or give correct path)
+# Load dataset 
 reviews = pd.read_csv("pandas/pandas_exercise3/winemag-data-130k-v2.csv")
 
 #----------------------------------------
@@ -41,6 +41,6 @@ print("\nQ5:\n", sorted_country_variety_means)
 
 #----------------------------------------
 # Q6: Sorted by index
+#----------------------------------------
 sorted_index = country_variety_means.sort_index()
 print("\nQ6:\n", sorted_index)
-#----------------------------------------
